@@ -1,39 +1,18 @@
-[CV_Damien_Legros_EN.pdf](https://github.com/DamienLegros/DamienLegros/files/8789671/CV_Damien_Legros_EN.pdf)
-## Welcome to @DamienLegros profile !
 
-You can use the [editor on GitHub](https://github.com/DamienLegros/DamienLegros/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to @DamienLegros profile!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can download my [Curriculum Vitae](https://github.com/DamienLegros/DamienLegros/files/8789733/CV_Damien_Legros_EN.pdf) here! :smile:
 
-### Markdown
+Student in the ANDROIDE master, I am doing the last year of my master degree in 3 years by taking extra courses in the BIM master. In the future, I would like to work in research, more precisely on subjects where I can apply artifical intelligence and graph theory to bio-informatics problems. I am at the moment in an internship at the [Laboratory of Computational and Quantitative Biology (LCQB), Sorbonne Université](http://www.lcqb.upmc.fr/) working on a learning architecture to predict the disorder of proteins.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### My studies
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Todo!
 
 ### My projects
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DamienLegros/DamienLegros/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 Todo!
 
-### Contact me !
+### Contact me!
 
-If you are interested by my profile or if you have some questions on my projects, do not hesitate to contact me by email **damien.legros at etu.sorbonne-universite .fr** ! :grin: .
+If you are interested by my profile or if you have some questions on my projects, do not hesitate to contact me by email **damien.legros at etu.sorbonne-universite .fr** ! :grin:.
