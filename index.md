@@ -1,5 +1,5 @@
 
-## Welcome to @DamienLegros profile! :wave:
+## Welcome to @DamienLegros profile!
 
 > You can download my [Curriculum Vitae](https://github.com/DamienLegros/DamienLegros/files/8789733/CV_Damien_Legros_EN.pdf) here! :smile:
 
