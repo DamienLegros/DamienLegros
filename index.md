@@ -29,10 +29,11 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### My projects
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DamienLegros/DamienLegros/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Todo!
 
-### Support or Contact
+### Contact me !
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you are interested by my profile or if you have some questions on my projects, do not hesitate to contact me by email **damien.legros at etu.sorbonne-universite .fr** ! :grin: .
