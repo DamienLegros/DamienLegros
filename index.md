@@ -15,4 +15,4 @@ Todo!
 
 ### Contact me!
 
-If you are interested by my profile or if you have some questions on my projects, do not hesitate to contact me by email **damien.legros at etu.sorbonne-universite .fr** ! :grin:.
+If you are interested by my profile or if you have some questions on my projects, do not hesitate to contact me by email **damien.legros at etu.sorbonne-universite .fr**! :grin:
