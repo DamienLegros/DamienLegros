@@ -11,14 +11,14 @@ I am at the moment in an internship at the [Laboratory of Computational and Quan
 
 ### My studies :pencil2:
 
-* **Double Master's in [Artificial Intelligence](http://androide.lip6.fr/) and [Bioinformatics](http://www.lcqb.upmc.fr/BIM/M2.html)** - Sorbonne Université in Paris, France
+* **Double Master's in [Artificial Intelligence](http://androide.lip6.fr/) and [Bioinformatics](http://www.lcqb.upmc.fr/BIM/M2.html)** - Sorbonne Université in Paris
     - Include one 6 months internship ongoing and another 6 months next year.
 
-* **Double Bachelor's in [Computer Science and Mathematics](https://math-info.u-paris.fr/parcours-de-licence-bi-diplomant/informatique-mathematiques/)** - Université Paris Cité in Paris, France
+* **Double Bachelor's in [Computer Science and Mathematics](https://math-info.u-paris.fr/parcours-de-licence-bi-diplomant/informatique-mathematiques/)** - Université Paris Cité in Paris
     - ERASMUS mobility year in Trinity College Dublin in Dublin, Ireland
     - Modelling and Simulation mathematics background
 
-* **Scientific Baccalaureate** - Jules Ferry High School in Paris, France
+* **Scientific Baccalaureate** - Jules Ferry High School in Paris
     - Mathematics and Biology option
 
 ### My projects :paperclip:
