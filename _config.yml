@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: "Hello there, I'm **@DamienLegros** ! :smiley_cat:"
-description: "Student in Master 2 of Artificial Intelligence and Bioinformatics at Sorbonne Université, Paris :school:"
+description: "Student finishing a Master 2 of Artificial Intelligence and Computational Biology at Sorbonne Université, Paris :school:"
 
 plugins:
   - jemoji
