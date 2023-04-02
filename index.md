@@ -1,18 +1,18 @@
 
 ## Hello there, welcome to @DamienLegros profile!
 
-> You can download my [Curriculum Vitae](https://github.com/DamienLegros/DamienLegros/files/9128077/CV_Damien_Legros_EN.pdf) here! :smile:
+> You can download my [Curriculum Vitae](https://github.com/DamienLegros/DamienLegros/files/11131599/CV.pdf) here! :smile:
 
-Student in the [ANDROIDE master's](http://androide.lip6.fr/), I am doing the last year of my master's degree in 3 years by taking extra courses in the [BIM master's](http://www.lcqb.upmc.fr/BIM/M2.html). 
+I am finishing my [Artificial Intelligence master's](https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-informatique/parcours-androide) and my [Computational Biology master's](https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-informatique/parcours-bim) and I am looking for work starting in September 2023. 
 
 In the future, I would like to work in research, more precisely on subjects where I can apply artifical intelligence and graph theory to bioinformatics problems. 
 
-I am at the moment in an internship at the [Laboratory of Computational and Quantitative Biology (LCQB), Sorbonne Université](http://www.lcqb.upmc.fr/) working on a learning architecture to predict the disorder of proteins.
+I am at the moment doing my second master's thesis at the [Somatic Evolution group DFKZ, Heidelberg](https://www.dkfz.de/en/somatische-evolution-frueherkennung/index.php) working on the development of an aging model to predict the age of cells from mice tissues.
 
 ### Seminars & Schools :microphone:
 
 
-* **i-Bio Summer School : [Artificial Intelligence for biologists](http://ibio.sorbonne-universite.fr/seminars-summer-schools/)** - Banyuls-sur-Mer, France
+* **i-Bio Summer School 2022 : [Artificial Intelligence for biologists](http://ibio.sorbonne-universite.fr/seminars-summer-schools/)** - Banyuls-sur-Mer, France
     - As a participant
 
 
@@ -21,13 +21,13 @@ I am at the moment in an internship at the [Laboratory of Computational and Quan
 
 ### My studies :pencil2:
 
-* **Double Master's in [Artificial Intelligence](http://androide.lip6.fr/) and [Bioinformatics](http://www.lcqb.upmc.fr/BIM/M2.html)** - Sorbonne Université in Paris
-    - Include one 6 months internship ongoing and another 6 months next year.
+* **Double Master's in [Artificial Intelligence](https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-informatique/parcours-androide) and [Computational Biology](https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-informatique/parcours-bim)** - Sorbonne Université in Paris
+    - Include 2 master's thesis for each field (6 months internships).
 
 
-* **Double Bachelor's in [Computer Science and Mathematics](https://math-info.u-paris.fr/parcours-de-licence-bi-diplomant/informatique-mathematiques/)** - Université Paris Cité in Paris
+* **Double Bachelor's in [Computer Science and Applied Mathematics](https://math-info.u-paris.fr/parcours-de-licence-bi-diplomant/informatique-mathematiques/)** - Université Paris Cité in Paris
     - ERASMUS mobility year in Trinity College Dublin in Dublin, Ireland
-    - Modelling and Simulation mathematics background
+    - Modelling and Simulation
 
 
 * **Scientific Baccalaureate** - Jules Ferry High School in Paris
