@@ -1,6 +1,6 @@
 Hello there, I'm **@DamienLegros** and welcome to my github! :grin: 
-- I’m interested in artificial intelligence and graph theory applied to bioinformatics. :pill:
-- I am at the moment in internship at the [Laboratory of Computational and Quantitative Biology (LCQB), Sorbonne Université Paris](http://www.lcqb.upmc.fr/). :mag:
+- I’m interested in artificial intelligence and graph theory applied to biology problems. :pill:
+- I am at the moment in internship at the [Somatic Evolution group DFKZ, Heidelberg](https://www.dkfz.de/en/somatische-evolution-frueherkennung/index.php). :mag:
 - My webpage is available [here](https://damienlegros.github.io/DamienLegros/)! :page_with_curl:
 - My profile picture is taken from a painting of [David S. Goodsell](https://ccsb.scripps.edu/goodsell/). Go take a look, they are awesome! :pencil2:
 
