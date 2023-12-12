@@ -7,8 +7,6 @@ I am finishing my [Artificial Intelligence master's](https://sciences.sorbonne-u
 
 In the future, I would like to work in research, more precisely on subjects where I can apply artifical intelligence and graph theory to bioinformatics problems. 
 
-I am at the moment doing my second master's thesis at the [Somatic Evolution group DFKZ, Heidelberg](https://www.dkfz.de/en/somatische-evolution-frueherkennung/index.php) working on the development of an aging model to predict the age of cells from mice tissues.
-
 ### Seminars & Schools :microphone:
 
 
