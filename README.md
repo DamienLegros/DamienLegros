@@ -1,6 +1,6 @@
 Hello there, I'm **@DamienLegros** and welcome to my github! :grin: 
-- I’m interested in artificial intelligence and graph theory applied to biology problems. :pill:
-- My webpage is available [here](https://damienlegros.github.io/DamienLegros/)! :page_with_curl:
+- I’m interested in artificial intelligence and graph theory. :pill:
+<!---- My webpage is available [here](https://damienlegros.github.io/DamienLegros/)! :page_with_curl:--->
 - My profile picture is taken from a painting of [David S. Goodsell](https://ccsb.scripps.edu/goodsell/). Go take a look, they are awesome! :pencil2:
 
 <!---
