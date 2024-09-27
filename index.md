@@ -8,7 +8,7 @@ I'm passionate about utilizing my expertise in data science to extract valuable 
 
 ## My Experience :briefcase:
 
-* ### Current Position (From Sept 2023) :office: **Bioprocess Data Scientist, [UCB](https://www.ucb.com/)** - Brussels, Belgium
+* ### **Bioprocess Data Scientist (From Sept 2023), [UCB](https://www.ucb.com/)** - Brussels, Belgium
     - Leveraging ML algorithms and pipelines for analysis, modeling and automation in cell culture projects to optimize drug compounds processes
 
 * **Bioinformatics internship (6 months) : [Somatic Evolution](https://www.dkfz.de/en/somatische-evolution-frueherkennung/index.php), DKFZ** - Heidelberg, Germany
