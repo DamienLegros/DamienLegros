@@ -1,6 +1,6 @@
 # Hello there, welcome to @DamienLegros profile!
 
-> You can download my [Curriculum Vitae](https://github.com/user-attachments/files/17164160/CV_Damien_Legros.pdf) here! :smile:
+> You can download my [CV](https://github.com/user-attachments/files/17164601/CV_Damien_Legros.pdf) here! :smile:
 
 I'm working as a Data Scientist for UCB. I'm leveraging machine learning algorithms and data pipelines to drive extraction, analysis, modeling, and automation in cell culture projects. My work focuses on optimizing drug compound processes, ultimately contributing to the development of more effective treatments.
 
