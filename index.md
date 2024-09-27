@@ -1,40 +1,46 @@
+# Hello there, welcome to @DamienLegros profile!
 
-## Hello there, welcome to @DamienLegros profile!
+> You can download my [Curriculum Vitae](https://github.com/user-attachments/files/17164160/CV_Damien_Legros.pdf) here! :smile:
 
-> You can download my [Curriculum Vitae](https://github.com/DamienLegros/DamienLegros/files/11131599/CV.pdf) here! :smile:
+I'm working as a Data Scientist for UCB. I'm leveraging machine learning algorithms and data pipelines to drive extraction, analysis, modeling, and automation in cell culture projects. My work focuses on optimizing drug compound processes, ultimately contributing to the development of more effective treatments.
 
-I am finishing my [Artificial Intelligence master's](https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-informatique/parcours-androide) and my [Computational Biology master's](https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-informatique/parcours-bim) and I am looking for work starting in September 2023. 
+I'm passionate about utilizing my expertise in data science to extract valuable information from complex medical and biological data. I thrive on projects that bridge the gap between data science and the life sciences.
 
-In the future, I would like to work in research, more precisely on subjects where I can apply artifical intelligence and graph theory to bioinformatics problems. 
+## My Experience :briefcase:
 
-### Seminars & Schools :microphone:
+* ### Current Position (From Sept 2023) :office: **Bioprocess Data Scientist, [UCB](https://www.ucb.com/)** - Brussels, Belgium
+    - Leveraging ML algorithms and pipelines for analysis, modeling and automation in cell culture projects to optimize drug compounds processes
 
+* **Bioinformatics internship (6 months) : [Somatic Evolution](https://www.dkfz.de/en/somatische-evolution-frueherkennung/index.php), DKFZ** - Heidelberg, Germany
+    - *“Data analysis of mice tissues on aging using machine learning algorithms”*
+
+* **Master’s thesis (6 months) : [LCQB](http://www.lcqb.upmc.fr/)** - Paris, France
+    - *“Learning the disorder of proteins using deep learning approach”*
+
+## Seminars & Schools :microphone:
 
 * **i-Bio Summer School 2022 : [Artificial Intelligence for biologists](http://ibio.sorbonne-universite.fr/seminars-summer-schools/)** - Banyuls-sur-Mer, France
     - As a participant
 
-
 * **Meet-EU 2021 [Symposium](http://ibio.sorbonne-universite.fr/seminars-summer-schools/)** - Online
     - Part of a student group on prediction of compartments
 
-### My studies :pencil2:
+## My Studies :pencil2:
 
 * **Double Master's in [Artificial Intelligence](https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-informatique/parcours-androide) and [Computational Biology](https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-informatique/parcours-bim)** - Sorbonne Université in Paris
     - Include 2 master's thesis for each field (6 months internships).
-
 
 * **Double Bachelor's in [Computer Science and Applied Mathematics](https://math-info.u-paris.fr/parcours-de-licence-bi-diplomant/informatique-mathematiques/)** - Université Paris Cité in Paris
     - ERASMUS mobility year in Trinity College Dublin in Dublin, Ireland
     - Modelling and Simulation
 
-
 * **Scientific Baccalaureate** - Jules Ferry High School in Paris
     - Mathematics and Biology option
 
-### My projects :paperclip:
+## My Projects :paperclip:
 
-Todo!
+Working on it atm!
 
-### Contact me! :mailbox:
+## Contact Me! :mailbox:
 
-If you are interested by my profile or if you have some questions on my projects, do not hesitate to contact me by email **damien.legros at etu.sorbonne-universite .fr**! :grin:
+If you are interested by my profile or if you have some questions on my projects, do not hesitate to contact me on [Twitter](https://x.com/LegrosDami32276)! :grin:
