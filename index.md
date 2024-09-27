@@ -2,7 +2,7 @@
 
 > You can download my [CV](https://github.com/user-attachments/files/17164601/CV_Damien_Legros.pdf) here! :smile:
 
-I'm working as a Data Scientist for UCB. I'm leveraging machine learning algorithms and data pipelines to drive extraction, analysis, modeling, and automation in cell culture projects. My work focuses on optimizing drug compound processes, ultimately contributing to the development of more effective treatments.
+I'm working as a Data Scientist at UCB. I'm leveraging machine learning algorithms and data pipelines to drive extraction, analysis, modeling, and automation in cell culture projects. My work focuses on optimizing drug compound processes, ultimately contributing to the development of more effective treatments.
 
 I'm passionate about utilizing my expertise in data science to extract valuable information from complex medical and biological data. I thrive on projects that bridge the gap between data science and the life sciences.
 
