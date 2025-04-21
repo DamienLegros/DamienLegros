@@ -1,6 +1,6 @@
 # Hello there, welcome to @DamienLegros profile!
 
-> You can download my [CV](https://github.com/user-attachments/files/17164601/CV_Damien_Legros.pdf) here! :smile:
+> You can download my [CV](https://github.com/user-attachments/files/19837427/CV_Damien_Legros.pdf) here! :smile:
 
 I'm working as a Data Scientist at UCB. I'm leveraging machine learning algorithms and data pipelines to drive extraction, analysis, modeling, and automation in cell culture projects. My work focuses on optimizing drug compound processes, ultimately contributing to the development of more effective treatments.
 
@@ -14,7 +14,7 @@ I'm passionate about utilizing my expertise in data science to extract valuable 
 * **Bioinformatics internship (6 months) : [Somatic Evolution](https://www.dkfz.de/en/somatische-evolution-frueherkennung/index.php), DKFZ** - Heidelberg, Germany
     - *“Data analysis of mice tissues on aging using machine learning algorithms”*
 
-* **Master’s thesis (6 months) : [LCQB](http://www.lcqb.upmc.fr/)** - Paris, France
+* **Master’s thesis (6 months) : [LCQB](http://www.lcqb.upmc.fr/), Sorbonne Université** - Paris, France
     - *“Learning the disorder of proteins using deep learning approach”*
 
 ## Seminars & Schools :microphone:
@@ -39,8 +39,12 @@ I'm passionate about utilizing my expertise in data science to extract valuable 
 
 ## My Projects :paperclip:
 
+* **Small Data Analysis for Integrative Microbiome and Metabolomics** - [**omicsanalysis**](https://github.com/DamienLegros/omicsanalysis)
+  
+    - Study on different compartments of diet behavior and human omics layers of data
+      
 Working on it atm!
 
 ## Contact Me! :mailbox:
 
-If you are interested by my profile or if you have some questions on my projects, do not hesitate to contact me on [Twitter](https://x.com/LegrosDami32276)! :grin:
+If you are interested by my profile or if you have some questions on my projects, do not hesitate to contact me! :grin:
