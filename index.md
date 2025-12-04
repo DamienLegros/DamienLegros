@@ -2,15 +2,18 @@
 
 > You can download my [CV](https://github.com/user-attachments/files/19837427/CV_Damien_Legros.pdf) here! :smile:
 
-I'm working as a Data Scientist at UCB. I'm leveraging machine learning algorithms and data pipelines to drive extraction, analysis, modeling, and automation in cell culture projects. My work focuses on optimizing drug compound processes, ultimately contributing to the development of more effective treatments.
+I'm working on the protein universe to find novel protein families with new functions as a PhD at VIB.AI in Pereira Lab.
 
 I'm passionate about utilizing my expertise in data science to extract valuable information from complex medical and biological data. I thrive on projects that bridge the gap between data science and the life sciences.
 
 ## My Experience :briefcase:
 
-* ### **Bioprocess Data Scientist (From Sept 2023), [UCB](https://www.ucb.com/)** - Brussels, Belgium
-    - Leveraging ML algorithms and pipelines for analysis, modeling and automation in cell culture projects to optimize drug compounds processes
+* ### **Doctoral Researcher (From Nov 2025), [VIB.AI Pereira Lab]([https://www.ucb.com/](https://pereiralab.sites.vib.be/en))** - Leuven, Belgium
+    - Discovering novel protein families by developing segmentation AI methods on the protein universe.
 <br><br>
+* **Bioprocess Data Scientist (2 years), [UCB](https://www.ucb.com/)** - Brussels, Belgium
+    - Leveraging ML algorithms and pipelines for analysis, modeling and automation in cell culture projects to optimize drug compounds processes
+
 * **Bioinformatics internship (6 months) : [Somatic Evolution](https://www.dkfz.de/en/somatische-evolution-frueherkennung/index.php), DKFZ** - Heidelberg, Germany
     - *“Data analysis of mice tissues on aging using machine learning algorithms”*
 
