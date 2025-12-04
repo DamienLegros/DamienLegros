@@ -8,7 +8,7 @@ I'm passionate about utilizing my expertise in data science to extract valuable 
 
 ## My Experience :briefcase:
 
-* ### **Doctoral Researcher (From Nov 2025), [VIB.AI Pereira Lab]([https://www.ucb.com/](https://pereiralab.sites.vib.be/en))** - Leuven, Belgium
+* ### **Doctoral Researcher (From Nov 2025), [VIB.AI Pereira Lab](https://pereiralab.sites.vib.be/en)** - Leuven, Belgium
     - Discovering novel protein families by developing segmentation AI methods on the protein universe.
 <br><br>
 * **Bioprocess Data Scientist (2 years), [UCB](https://www.ucb.com/)** - Brussels, Belgium
@@ -42,11 +42,13 @@ I'm passionate about utilizing my expertise in data science to extract valuable 
 
 ## My Projects :paperclip:
 
-* **Small Data Analysis for Integrative Microbiome and Metabolomics** - [**omicsanalysis**](https://github.com/DamienLegros/omicsanalysis)
+* **Small Data Analysis for Integrative Microbiome and Metabolomics (May 2025)** - [**darkgut**](https://github.com/DamienLegros/darkgut)
+  
+    - Using the sequence, taxonomic and functional perspectives I analysed the Tume superfamily of proteins.
+
+* **Small Data Analysis for Integrative Microbiome and Metabolomics (Mar 2025)** - [**omicsanalysis**](https://github.com/DamienLegros/omicsanalysis)
   
     - Study on different compartments of diet behavior and human omics layers of data
-      
-Working on it atm!
 
 ## Contact Me! :mailbox:
 
