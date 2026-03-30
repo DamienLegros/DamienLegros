@@ -1,6 +1,7 @@
 # Hello there, welcome to @DamienLegros profile!
 
-> You can download my [CV](https://github.com/user-attachments/files/26345594/CV_Damien_Legros_PhD.pdf) here! :smile:
+> You can download my [CV](https://github.com/user-attachments/files/26346102/CV_Damien_Legros_PhD.pdf) here! :smile:
+
 
 I'm working on the protein universe to find novel protein families with new functions as a PhD at VIB.AI in Pereira Lab.
 
